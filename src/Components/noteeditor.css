@@ -1,0 +1,19 @@
+.noteEditor {
+    background-color: tomato;
+    width: 30%;
+    border: 4px solid black;
+    display: flex;
+    align-items: flex-end;
+}
+
+.textarea {
+    width: 100%;
+    height: 80%;
+    resize: none;
+    border-radius: 2%;
+}
+
+
+
+
+
