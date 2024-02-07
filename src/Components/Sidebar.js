@@ -116,7 +116,6 @@ function Sidebar() {
       deletedId={value}
       hoverTitleId={hoverTitleId} 
       />
-      {console.log("currendId: " + currentId)}
     </div>
   );
 }
