@@ -9,7 +9,7 @@
 .sidebar {
     width: 10%;
     height: 500px;
-    background-color: yellow;
+    background-color: green;
     border: 4px solid blue;
     overflow: auto;
 }
